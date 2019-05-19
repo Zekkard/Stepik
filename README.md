@@ -1,5 +1,5 @@
 # Stepik - Python programming.
-My experience in completing a any programming course from the Stepik.
+My experience in completing a programming course from the Stepik.
 Link to the course - https://stepik.org/course/67
  
 Exercise solution. 
